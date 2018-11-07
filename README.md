@@ -2,7 +2,7 @@
 
 Repositório referente aos projetos práticos da disciplina Redes Neurais Artificiais pelo curso de Engenharia de Computação da Universidade do Estado do Amazonas.
 
-**Professora: [Elloá Barreto Guedes](https://github.com/elloa)**
+**Professora: [Elloá Barreto Guedes](https://github.com/elloa), D.Sc**
 
 
 ### - Projetos:
