@@ -7,9 +7,7 @@ Repositório referente aos projetos práticos da disciplina Redes Neurais Artifi
 
 ### - Projetos:
 
-  - [Explorando e Visualizando Dados](https://github.com/jpdol/RedesNeurais/tree/master/PP1)
-    Descrição:
-  
+  - [Explorando e Visualizando Dados](https://github.com/jpdol/RedesNeurais/tree/master/PP1)  
   - [Métricas de Desempenho - Comparação entre modelos](https://github.com/jpdol/RedesNeurais/tree/master/PP2)
   - [Aprendizado de Neurônio Perceptron](https://github.com/jpdol/RedesNeurais/tree/master/PP3)
   - [Multilayer Perceptron - Iris Dataset](https://github.com/jpdol/RedesNeurais/tree/master/Aula%20Pr%C3%A1tica)
