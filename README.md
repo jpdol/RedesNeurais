@@ -5,7 +5,7 @@ Repositório referente aos projetos práticos da disciplina Redes Neurais Artifi
 **Professora: [Elloá Barreto Guedes](https://github.com/elloa), D.Sc**
 
 
-### - Projetos:
+- ### Projetos:
 
   - [Explorando e Visualizando Dados](https://github.com/jpdol/RedesNeurais/tree/master/PP1)  
   - [Métricas de Desempenho - Comparação entre modelos](https://github.com/jpdol/RedesNeurais/tree/master/PP2)
