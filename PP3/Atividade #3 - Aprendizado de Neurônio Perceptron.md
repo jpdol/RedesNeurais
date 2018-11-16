@@ -210,15 +210,15 @@ for beta in range(1,4):
 ```
 
 
-![png](Atividade%20%233%20-%20Aprendizado%20de%20Neuro%CC%82nio%20Perceptron_files/Atividade%20%233%20-%20Aprendizado%20de%20Neuro%CC%82nio%20Perceptron_20_0.png)
+<img src="https://raw.githubusercontent.com/jpdol/RedesNeurais/master/PP3/Atividade%20%233%20-%20Aprendizado%20de%20Neur%C3%B4nio%20Perceptron_files/Atividade%20%233%20-%20Aprendizado%20de%20Neur%C3%B4nio%20Perceptron_20_0.png"
 
 
 
-![png](Atividade%20%233%20-%20Aprendizado%20de%20Neuro%CC%82nio%20Perceptron_files/Atividade%20%233%20-%20Aprendizado%20de%20Neuro%CC%82nio%20Perceptron_20_1.png)
+<img src="https://raw.githubusercontent.com/jpdol/RedesNeurais/master/PP3/Atividade%20%233%20-%20Aprendizado%20de%20Neur%C3%B4nio%20Perceptron_files/Atividade%20%233%20-%20Aprendizado%20de%20Neur%C3%B4nio%20Perceptron_20_1.png"
 
 
 
-![png](Atividade%20%233%20-%20Aprendizado%20de%20Neuro%CC%82nio%20Perceptron_files/Atividade%20%233%20-%20Aprendizado%20de%20Neuro%CC%82nio%20Perceptron_20_2.png)
+<img src="https://raw.githubusercontent.com/jpdol/RedesNeurais/master/PP3/Atividade%20%233%20-%20Aprendizado%20de%20Neur%C3%B4nio%20Perceptron_files/Atividade%20%233%20-%20Aprendizado%20de%20Neur%C3%B4nio%20Perceptron_20_2.png"
 
 
 ### Tangente Hiperbólica
