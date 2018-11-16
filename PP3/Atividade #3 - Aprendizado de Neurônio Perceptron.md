@@ -169,8 +169,8 @@ plt.plot([0, ((W.item(0)/W.item(2))/(W.item(1)/W.item(2)))], [W.item(0)/W.item(2
 plt.show()
 ```
 
+<img src="https://raw.githubusercontent.com/jpdol/RedesNeurais/master/PP3/Atividade%20%233%20-%20Aprendizado%20de%20Neur%C3%B4nio%20Perceptron_files/Atividade%20%233%20-%20Aprendizado%20de%20Neur%C3%B4nio%20Perceptron_15_0.png">
 
-![png](Atividade%20%233%20-%20Aprendizado%20de%20Neuro%CC%82nio%20Perceptron_files/Atividade%20%233%20-%20Aprendizado%20de%20Neuro%CC%82nio%20Perceptron_15_0.png)
 
 
 ## Outras Funções de Ativação
@@ -189,7 +189,7 @@ plt.show()
 ```
 
 
-![png](Atividade%20%233%20-%20Aprendizado%20de%20Neuro%CC%82nio%20Perceptron_files/Atividade%20%233%20-%20Aprendizado%20de%20Neuro%CC%82nio%20Perceptron_18_0.png)
+<img src="https://raw.githubusercontent.com/jpdol/RedesNeurais/master/PP3/Atividade%20%233%20-%20Aprendizado%20de%20Neur%C3%B4nio%20Perceptron_files/Atividade%20%233%20-%20Aprendizado%20de%20Neur%C3%B4nio%20Perceptron_18_0.png">
 
 
 ### Sigmoidal, com 3 valores distintos de suavidade e centro da curva no valor 0
