@@ -54,7 +54,7 @@ plt.ylabel('milhas por galão')
 
 
 
-![png](Projeto%20Pra%CC%81tico%20%231.2%20--%20Visualizando%20dados_files/Projeto%20Pra%CC%81tico%20%231.2%20--%20Visualizando%20dados_4_1.png)
+<img src="https://raw.githubusercontent.com/jpdol/RedesNeurais/master/PP1/Projeto%20Pr%C3%A1tico%20%231.2%20--%20Visualizando%20dados_files/Projeto%20Pr%C3%A1tico%20%231.2%20--%20Visualizando%20dados_4_1.png">
 
 
 ## Atividade 8 -- Boxplot
@@ -78,7 +78,7 @@ plt.title('Boxplot - Milhas por Galão')
 
 
 
-![png](Projeto%20Pra%CC%81tico%20%231.2%20--%20Visualizando%20dados_files/Projeto%20Pra%CC%81tico%20%231.2%20--%20Visualizando%20dados_6_1.png)
+<img src="https://raw.githubusercontent.com/jpdol/RedesNeurais/master/PP1/Projeto%20Pr%C3%A1tico%20%231.2%20--%20Visualizando%20dados_files/Projeto%20Pr%C3%A1tico%20%231.2%20--%20Visualizando%20dados_6_1.png">
 
 
 
@@ -96,7 +96,7 @@ plt.title('Boxplot - Peso do Carro')
 
 
 
-![png](Projeto%20Pra%CC%81tico%20%231.2%20--%20Visualizando%20dados_files/Projeto%20Pra%CC%81tico%20%231.2%20--%20Visualizando%20dados_7_1.png)
+<img src="https://raw.githubusercontent.com/jpdol/RedesNeurais/master/PP1/Projeto%20Pr%C3%A1tico%20%231.2%20--%20Visualizando%20dados_files/Projeto%20Pr%C3%A1tico%20%231.2%20--%20Visualizando%20dados_7_1.png">
 
 
 #### O peso dos carros é distribuído de maneira simétrica?
@@ -123,7 +123,7 @@ plt.title('Scatterplot - peso x mpg')
 
 
 
-![png](Projeto%20Pra%CC%81tico%20%231.2%20--%20Visualizando%20dados_files/Projeto%20Pra%CC%81tico%20%231.2%20--%20Visualizando%20dados_10_1.png)
+<img src="https://raw.githubusercontent.com/jpdol/RedesNeurais/master/PP1/Projeto%20Pr%C3%A1tico%20%231.2%20--%20Visualizando%20dados_files/Projeto%20Pr%C3%A1tico%20%231.2%20--%20Visualizando%20dados_10_1.png">
 
 
 ## Atividade 11 -- Boxplot categorizado
@@ -161,7 +161,7 @@ plt.ylabel('milhas por galão')
 
 
 
-![png](Projeto%20Pra%CC%81tico%20%231.2%20--%20Visualizando%20dados_files/Projeto%20Pra%CC%81tico%20%231.2%20--%20Visualizando%20dados_12_1.png)
+<img src="https://raw.githubusercontent.com/jpdol/RedesNeurais/master/PP1/Projeto%20Pr%C3%A1tico%20%231.2%20--%20Visualizando%20dados_files/Projeto%20Pr%C3%A1tico%20%231.2%20--%20Visualizando%20dados_12_1.png">
 
 
 #### 2 - É possível observar uma tendência de aumento de eficiência (maior mpg) com o passar dos anos?
