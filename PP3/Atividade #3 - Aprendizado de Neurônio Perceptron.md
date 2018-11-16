@@ -210,15 +210,15 @@ for beta in range(1,4):
 ```
 
 
-<img src="https://raw.githubusercontent.com/jpdol/RedesNeurais/master/PP3/Atividade%20%233%20-%20Aprendizado%20de%20Neur%C3%B4nio%20Perceptron_files/Atividade%20%233%20-%20Aprendizado%20de%20Neur%C3%B4nio%20Perceptron_20_0.png"
+<img src="https://raw.githubusercontent.com/jpdol/RedesNeurais/master/PP3/Atividade%20%233%20-%20Aprendizado%20de%20Neur%C3%B4nio%20Perceptron_files/Atividade%20%233%20-%20Aprendizado%20de%20Neur%C3%B4nio%20Perceptron_20_0.png">
 
 
 
-<img src="https://raw.githubusercontent.com/jpdol/RedesNeurais/master/PP3/Atividade%20%233%20-%20Aprendizado%20de%20Neur%C3%B4nio%20Perceptron_files/Atividade%20%233%20-%20Aprendizado%20de%20Neur%C3%B4nio%20Perceptron_20_1.png"
+<img src="https://raw.githubusercontent.com/jpdol/RedesNeurais/master/PP3/Atividade%20%233%20-%20Aprendizado%20de%20Neur%C3%B4nio%20Perceptron_files/Atividade%20%233%20-%20Aprendizado%20de%20Neur%C3%B4nio%20Perceptron_20_1.png">
 
 
 
-<img src="https://raw.githubusercontent.com/jpdol/RedesNeurais/master/PP3/Atividade%20%233%20-%20Aprendizado%20de%20Neur%C3%B4nio%20Perceptron_files/Atividade%20%233%20-%20Aprendizado%20de%20Neur%C3%B4nio%20Perceptron_20_2.png"
+<img src="https://raw.githubusercontent.com/jpdol/RedesNeurais/master/PP3/Atividade%20%233%20-%20Aprendizado%20de%20Neur%C3%B4nio%20Perceptron_files/Atividade%20%233%20-%20Aprendizado%20de%20Neur%C3%B4nio%20Perceptron_20_2.png">
 
 
 ### Tangente Hiperbólica
@@ -232,7 +232,7 @@ plt.show()
 ```
 
 
-![png](Atividade%20%233%20-%20Aprendizado%20de%20Neuro%CC%82nio%20Perceptron_files/Atividade%20%233%20-%20Aprendizado%20de%20Neuro%CC%82nio%20Perceptron_22_0.png)
+<img src="https://raw.githubusercontent.com/jpdol/RedesNeurais/master/PP3/Atividade%20%233%20-%20Aprendizado%20de%20Neur%C3%B4nio%20Perceptron_files/Atividade%20%233%20-%20Aprendizado%20de%20Neur%C3%B4nio%20Perceptron_22_0.png">
 
 
 ### ReLU
@@ -251,6 +251,5 @@ plt.plot(t3,s3)
 plt.show()
 ```
 
-
-![png](Atividade%20%233%20-%20Aprendizado%20de%20Neuro%CC%82nio%20Perceptron_files/Atividade%20%233%20-%20Aprendizado%20de%20Neuro%CC%82nio%20Perceptron_24_0.png)
+<img src="https://raw.githubusercontent.com/jpdol/RedesNeurais/master/PP3/Atividade%20%233%20-%20Aprendizado%20de%20Neur%C3%B4nio%20Perceptron_files/Atividade%20%233%20-%20Aprendizado%20de%20Neur%C3%B4nio%20Perceptron_24_0.png">
 
